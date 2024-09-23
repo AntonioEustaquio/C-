@@ -1,0 +1,14 @@
+c:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\obj\Debug\net8.0\ConsumerGithub.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\obj\Debug\net8.0\ConsumerGithub.AssemblyInfoInputs.cache
+c:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\obj\Debug\net8.0\ConsumerGithub.AssemblyInfo.cs
+c:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\obj\Debug\net8.0\ConsumerGithub.csproj.CoreCompileInputs.cache
+c:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\bin\Debug\net8.0\ConsumerGithub.exe
+C:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\bin\Debug\net8.0\ConsumerGithub.deps.json
+C:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\bin\Debug\net8.0\ConsumerGithub.runtimeconfig.json
+c:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\bin\Debug\net8.0\ConsumerGithub.dll
+c:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\bin\Debug\net8.0\ConsumerGithub.pdb
+c:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\obj\Debug\net8.0\ConsumerGithub.dll
+c:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\obj\Debug\net8.0\refint\ConsumerGithub.dll
+c:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\obj\Debug\net8.0\ConsumerGithub.pdb
+C:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\obj\Debug\net8.0\ConsumerGithub.genruntimeconfig.cache
+C:\Users\32327220\Documents\Aula_20_09\ConsumerGithub\obj\Debug\net8.0\ref\ConsumerGithub.dll
