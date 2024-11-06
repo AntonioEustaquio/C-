@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton\\OneDrive\\Área de Trabalho\\portifolio-main\\C#\\CinemaApi\\CinemaApi.csproj": {}
+    "C:\\Users\\anton\\Documents\\C-Sharp\\CinemaApi\\CinemaApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anton\\OneDrive\\Área de Trabalho\\portifolio-main\\C#\\CinemaApi\\CinemaApi.csproj": {
+    "C:\\Users\\anton\\Documents\\C-Sharp\\CinemaApi\\CinemaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Área de Trabalho\\portifolio-main\\C#\\CinemaApi\\CinemaApi.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\Documents\\C-Sharp\\CinemaApi\\CinemaApi.csproj",
         "projectName": "CinemaApi",
-        "projectPath": "C:\\Users\\anton\\OneDrive\\Área de Trabalho\\portifolio-main\\C#\\CinemaApi\\CinemaApi.csproj",
+        "projectPath": "C:\\Users\\anton\\Documents\\C-Sharp\\CinemaApi\\CinemaApi.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton\\OneDrive\\Área de Trabalho\\portifolio-main\\C#\\CinemaApi\\obj\\",
+        "outputPath": "C:\\Users\\anton\\Documents\\C-Sharp\\CinemaApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
