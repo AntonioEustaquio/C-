@@ -135,3 +135,4 @@ C:\Users\anton\BookOnTable\obj\Debug\net8.0\ref\BookOnTable.dll
 C:\Users\anton\BookOnTable\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
 C:\Users\anton\BookOnTable\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
 C:\Users\anton\BookOnTable\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\anton\BookOnTable\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
